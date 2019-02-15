@@ -1,0 +1,4 @@
+C:\git\PP2\w1\task2\task2\obj\Debug\netcoreapp2.1\task2.csprojAssemblyReference.cache
+C:\git\PP2\w1\task2\task2\obj\Debug\netcoreapp2.1\task2.csproj.CoreCompileInputs.cache
+C:\git\PP2\w1\task2\task2\obj\Debug\netcoreapp2.1\task2.AssemblyInfoInputs.cache
+C:\git\PP2\w1\task2\task2\obj\Debug\netcoreapp2.1\task2.AssemblyInfo.cs
